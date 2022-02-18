@@ -17,7 +17,7 @@
 
 ## 📈 GitHub Stats 
 
-[![Sumukh's github stats](https://github-readme-stats.vercel.app/api?username=varunmmys)](https://github.com/varunmmys)
+[![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunmmys)](https://github.com/varunmmys)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunmmys)](https://git.io/streak-stats)
 
