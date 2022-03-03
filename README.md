@@ -12,8 +12,7 @@
 
 <a href="https://www.linkedin.com/in/varun-m-8b88b0209"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/varunm43473576">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
-</br>
-<a href="https://instagram.com/varun_m_bhat_84"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"" alt="Varun M height="30" width="40" /></a>
+<a href="https://instagram.com/varun_m_bhat_84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varun_m_bhat_84" height="30" width="40" /></a>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
