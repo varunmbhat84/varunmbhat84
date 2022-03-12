@@ -22,7 +22,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunmbhat84)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunmbhat84s&layout=compact)](https://github.com/varunmbhat84) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunmbhat84&layout=compact)](https://github.com/varunmbhat84) </br>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=varunmbhat84.varunmbhat84)](https://varunmbhat84/)
 
