@@ -15,6 +15,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunmbhat84" alt="varunmbhat84" /></a> </p>
+
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=varunmbhat84.varunmbhat84)](https://varunmbhat84/)
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/varun-m-8b88b0209"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
@@ -31,5 +34,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunmbhat84&layout=compact)](https://github.com/varunmbhat84) </br>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=varunmbhat84.varunmbhat84)](https://varunmbhat84/)
 
