@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) </br>
+
 🔨 Tools </br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -21,14 +22,13 @@
 <a href="https://twitter.com/varunm43473576">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 <a href="https://instagram.com/varun_m_bhat_84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varun_m_bhat_84" height="30" width="40" /></a>
 <a href="https://www.facebook.com/varun.m.94617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Varun M" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/20ise0040?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20ise0040@vvce.ac.in" height="30" width="40" /></a>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 📈 GitHub Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=varunmbhat84&&show_icons=true&title_color=ffffff&icon_color=b7ggh2&text_color=898989&bg_color=181818">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunmbhat84&label=Profile%20views&color=0e75b6&style=flat" alt="varunmbhat84" /> </p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunmbhat84)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunmbhat84&layout=compact)](https://github.com/varunmbhat84) </br>
 
 
