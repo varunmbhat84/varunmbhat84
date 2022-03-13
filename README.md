@@ -14,10 +14,8 @@
 🔨 Tools </br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunmbhat84" alt="varunmbhat84" /></a> </p>
 
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=varunmbhat84.varunmbhat84)](https://varunmbhat84/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunmbhat84&label=Profile%20views&color=0e75b6&style=flat" alt="varunmbhat84" /> </p>
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/varun-m-8b88b0209"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
@@ -27,8 +25,8 @@
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 📈 GitHub Stats 
+<img src="https://github-readme-stats.vercel.app/api?username=varunmbhat84&&show_icons=true&title_color=ffffff&icon_color=b7ggh2&text_color=898989&bg_color=181818">
 
-[![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varunmbhat84)](https://github.com/varunmbhat84)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunmbhat84)](https://git.io/streak-stats)
 
