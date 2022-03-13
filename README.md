@@ -28,7 +28,9 @@
 ## 📈 GitHub Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=varunmbhat84&&show_icons=true&title_color=ffffff&icon_color=b7ggh2&text_color=898989&bg_color=181818">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunmbhat84&label=Profile%20views&color=0e75b6&style=flat" alt="varunmbhat84" /> </p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunmbhat84)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunmbhat84&layout=compact)](https://github.com/varunmbhat84) </br>
 
 
