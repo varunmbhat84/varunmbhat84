@@ -1,4 +1,11 @@
+### Hi there, I'm VARUN M  😀👋
 
+- 🔭 I'm  currently studying in Vidyavardhaka Collage Of Engineering!!
+- 🌱 I’m currently learning python😄
+- 🤔 I’m looking for help with software development
+- 😉 Eager to learn more about tech related stuff
+- 📫 I Love contributing to open source project
+- 😄 I love solve problems
  💻 Technical Skills <br> 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
