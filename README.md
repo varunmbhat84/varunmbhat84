@@ -15,7 +15,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunmbhat84&label=Profile%20views&color=0e75b6&style=flat" alt="varunmbhat84" /> </p>
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/varun-m-8b88b0209"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
@@ -26,7 +25,7 @@
 
 ## 📈 GitHub Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=varunmbhat84&&show_icons=true&title_color=ffffff&icon_color=b7ggh2&text_color=898989&bg_color=181818">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunmbhat84&label=Profile%20views&color=0e75b6&style=flat" alt="varunmbhat84" /> </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunmbhat84)](https://git.io/streak-stats)
 
