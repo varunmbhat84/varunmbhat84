@@ -33,6 +33,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunmbhat84)](https://git.io/streak-stats)
 
+[![Varun's github activity graph](https://activity-graph.herokuapp.com/graph?username=varunmbhat84&theme=dracula)](https://github.com/varunmbhat84/github-readme-activity-graph)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunmbhat84&layout=compact)](https://github.com/varunmbhat84) </br>
 
 
