@@ -2,7 +2,7 @@
 
 - 🔭 I completed my BE at Vidyavardhaka College Of Engineering!!
 - 🌱 I worked in Onity groups as a Data Analyst intern😄
-- 🤔 I’m working as a software engineer trainee in Volante Technologies😊 
+- 🤔 I’m working as a Software Engineer Trainee in Volante Technologies😊 
 - 😉 Eager to learn more about tech-related stuff
 - 📫 I Love contributing to open source project
 - 😄 I love to solve problems
@@ -14,6 +14,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </br>
 🔨 Tools </br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
