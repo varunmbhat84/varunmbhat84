@@ -1,8 +1,8 @@
 ### Hi there, I'm VARUN M  😀👋
 
-- 🔭 I'm  currently studying at Vidyavardhaka College Of Engineering!!
-- 🌱 I’m currently learning Python 😄
-- 🤔 I’m looking for help with software development
+- 🔭 I completed my BE at Vidyavardhaka College Of Engineering!!
+- 🌱 I worked in Onity groups as a Data Analyst intern😄
+- 🤔 I’m working as a software engineer trainee in Volante Technologies😊 
 - 😉 Eager to learn more about tech-related stuff
 - 📫 I Love contributing to open source project
 - 😄 I love to solve problems
@@ -26,7 +26,7 @@
 <a href="https://instagram.com/varun_m_bhat_84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varun_m_bhat_84" height="30" width="40" /></a>
 <a href="https://www.facebook.com/varun.m.94617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Varun M" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/20ise0040?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20ise0040@vvce.ac.in" height="30" width="40" /></a>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to contact me!
 
 ## 📈 GitHub Stats 
 ![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunmbhat84&show_icons=true&theme=dracula)
